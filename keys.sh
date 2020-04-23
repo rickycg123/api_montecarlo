@@ -1,0 +1,6 @@
+#!/bin/sh
+export QUANDL_API_KEY="HV-sMczNPcyLKe8Vs53N"
+export PLAID_CLIENT_ID="5e98e8e21489d00012edddcb"
+export PLAID_PUBLIC_KEY="80d110ca2712b9d4e18e1fc9f8bd60"
+export PLAID_SBX_SECRET_KEY="2d7aaa95b5ce72f1855a1bf596df51"
+export PLAID_SECRET="2d7aaa95b5ce72f1855a1bf596df51"
